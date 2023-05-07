@@ -1,0 +1,18 @@
+{
+    "name": "Redhat UBI9",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "editor.tabSize": 2,
+                "files.trimTrailingWhitespace": true,
+                "workbench.colorTheme": "Aura Dark",
+                "workbench.iconTheme": "eq-material-theme-icons-darker"
+            },
+            "extensions": [
+                "DaltonMenezes.aura-theme",
+                "equinusocio.vsc-material-theme-icons"
+            ]
+        }
+    }
+}
